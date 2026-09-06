@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana02/Programa01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana02/Programa02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana02/Programa03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana03/Programa01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana03/Programa02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana03/Programa03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana04/Programa01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana04/Programa02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ÁLVAREZ_VALCARCEL_FRANCO/Semana04/Programa03" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="scala-sdk-2.13.18" level="application" />
+  </component>
+</module>
